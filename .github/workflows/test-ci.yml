@@ -20,4 +20,4 @@ jobs:
       run: python -c "import sys; print(sys.version)"
 
     - name: Test sentence
-      run: this is test
+      run: echo "this is test"
